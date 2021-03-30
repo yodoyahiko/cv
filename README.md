@@ -20,12 +20,12 @@
 
 # 主な業務経歴
 ## 2021年1月〜現在　AWSを用いたHRTech開発CI/CD環境構築
-- 期間2020年11月〜 （設計・構築）
+- 期間2021年1月〜 （設計・構築）
 - 役割：メンバー
 - 体制：2名
 
 ### 使用製品・技術
-- クラウドAWS：VPC,NATGateway,EC2,WorkSpaces,AWS Managed Microsoft AD
+- クラウドAWS：VPC,NATGateway,EC2,Amazon WorkSpaces,AWS Managed Microsoft AD,NLB
 - AWSデプロイツール：Terraform,Ansible,CodeCommit,CodePipeline,CodeBuild,CodeDeploy
 - バージョン管理ツール：GitLab
 - プロジェクト管理ツール：JIRA
@@ -36,7 +36,7 @@
 - 体制：7名
 
 ### 使用製品・技術
-- クラウドAWS：EC2,RDS,ElastiCache(Redis),WorkSpaces,Athena,Savings Plans,Reserved Instance
+- クラウドAWS：EC2,RDS,ElastiCache(Redis),WorkSpaces,Athena,Savings Plans,Reserved Instance,ALB,Route53
 - AWSデプロイツール：Terraform,Ansible
 - バージョン管理ツール：GitLab
 - プロジェクト管理ツール：JIRA
