@@ -8,7 +8,7 @@
  
 # 1. 職務経歴概要
 項番１から直近の経歴を記載
-1. 2020年8月〜現在 HRTechの事業会社にてSREとして参画中
+1. 2020年8月〜現在 株式会社カオナビにてSREとして参画中
 1. 2018年9月〜2020年7月 アイレット株式会社 クラウドインテグレーション事業部　職種インフラエンジニア　APNプレミアムパートナーで正社員として参画
 1. 2015年9月～2018年8月　パーソルテクノロジースタッフ株式会社　 正社員として就業 職種インフラエンジニア
     1. 2015年9月～2017年10月　富士フイルムソフトウエア株式会社 ECサイト・医療システムのインフラ設計・構築・運用プロジェクトに客先常駐として参画
@@ -19,7 +19,20 @@
 1. 2003年3月～2006年3月　飲食店で接客業にアルバイトとして従事
 
 # 主な業務経歴
-## 2021年1月〜現在　AWSを用いたHRTech開発CI/CD環境構築
+
+## 2020年11月〜現在　株式会社カオナビにてAWSを用いたHRTechインフラ基盤のSREを担当
+- 期間2020年11月〜 (SRE)
+- 役割：メンバー
+- 体制：9名
+
+### 使用製品・技術
+- クラウドAWS：EC2,RDS,ElastiCache(Redis),Athena,Savings Plans,Reserved Instance,ALB,Route53
+- AWSデプロイツール：Terraform,Ansible
+- バージョン管理ツール：GitLab
+- プロジェクト管理ツール：JIRA
+- コミュニケーションツール：Slack
+
+### 2021年1月〜2021年6月　AWSを用いたリモートワークでの開発ブラウザテスト環境構築
 - 期間2021年1月〜 （設計・構築）
 - 役割：メンバー
 - 体制：2名
@@ -30,19 +43,8 @@
 - バージョン管理ツール：GitLab
 - プロジェクト管理ツール：JIRA
 - コミュニケーションツール：Slack
-## 2020年11月〜現在　AWSを用いたHRTechインフラ基盤のSREを担当
-- 期間2020年11月〜 (SRE)
-- 役割：メンバー
-- 体制：7名
 
-### 使用製品・技術
-- クラウドAWS：EC2,RDS,ElastiCache(Redis),WorkSpaces,Athena,Savings Plans,Reserved Instance,ALB,Route53
-- AWSデプロイツール：Terraform,Ansible
-- バージョン管理ツール：GitLab
-- プロジェクト管理ツール：JIRA
-- コミュニケーションツール：Slack
-
-## 2020年8月〜11月　AWSを用いたHRTechサーバーレスのサービスのインフラ設計・構築を担当
+### 2020年8月〜11月　AWSを用いたHRTechサーバーレスのサービスのインフラ設計・構築を担当
 - 期間2020年8月～11月（設計・構築）
 - 役割：メンバー
 - 体制：2名
@@ -331,6 +333,6 @@ SNSとYoutubeは2018年12月末から運営開始し運営中。
 PCゲームプレイを動画にするコンテンツで企画・動画撮影・動画編集から動画の公開まですべて担当。
 
 # 6. 資格について
-- 2018/08 失効 Cisco Certified Network Associate (640-801J)
-- 2019/06 取得 AWS Certified Cloud Practitioner
-- 2020/02 取得 AWS Certified Solutions Architect - Associate
+- 2018/08 取得後有効期限により失効 Cisco Certified Network Associate (640-801J)
+- 2019/06 取得後有効期限により失効 AWS Certified Cloud Practitioner
+- 2020/02 取得後有効期限により失効 AWS Certified Solutions Architect - Associate
