@@ -338,81 +338,81 @@
 
 
 ## 経験分野内容のまとめ
-1. パブリッククラウドのコスト削減やシステム管理業務の最適化を行うSRE業務
-1. パブリッククラウドを利用したインフラの設計・構築・運用の経験
-1. プロジェクトのリーダー・サブリーダー経験
-1. フロントSEとして顧客折衝の経験
-1. ISMS（情報セキュリティマネジメントシステム）のシステム管理者
+- パブリッククラウドのコスト削減やシステム管理業務の最適化を行うSRE業務
+- パブリッククラウドを利用したインフラの設計・構築・運用の経験
+- プロジェクトのリーダー・サブリーダー経験
+- フロントSEとして顧客折衝の経験
+- ISMS（情報セキュリティマネジメントシステム）のシステム管理者
 
 ## 使用経験のある機器・ソフトウェア一覧
 以上の経歴から使用経験のある機器・ソフトウェアは下記
 ### AWSコンポーネント
-1. Route 53
-1. WAF
-1. CloudFront
-1. VPC
-1. ELB
-1. ACM
-1. EC2
-1. ECS
-1. RDS
-1. S3
-1. QuickSight
-1. Amazon MSK
-1. Lambda
+- Route 53
+- WAF
+- CloudFront
+- VPC
+- ELB
+- ACM
+- EC2
+- ECS
+- RDS
+- S3
+- QuickSight
+- Amazon MSK
+- Lambda
 
 ### ネットワーク機器
-1. YAMAHAルータ (RTX1200、RTX810、NVR500)
-1. NECルータ(UNIVERGE IX2025)
-1. Ciscoスイッチ(Catalyst 2960-L)
-1. Buffaloアクセスポイント(WAPS-APG600H、WAPS-AG300H)
-1. Buffaloスイッチ(BS-POE-G2124M、BS-GS2048)
-1. Ruckus Wirelss アクセスポイント(ZoneFlex 7343)
-1. Ruckus Wirelss コントローラー(ZoneDirector 1100)　　　
-1. アライドスイッチ（CentreCOM GS924M V2）
-1. アライドスイッチ(CentreCOM GS924M V2)
-1. CTIシステム(IF6000)
+- YAMAHAルータ (RTX1200、RTX810、NVR500)
+- NECルータ(UNIVERGE IX2025)
+- Ciscoスイッチ(Catalyst 2960-L)
+- Buffaloアクセスポイント(WAPS-APG600H、WAPS-AG300H)
+- Buffaloスイッチ(BS-POE-G2124M、BS-GS2048)
+- Ruckus Wirelss アクセスポイント(ZoneFlex 7343)
+- Ruckus Wirelss コントローラー(ZoneDirector 1100)　　　
+- アライドスイッチ（CentreCOM GS924M V2）
+- アライドスイッチ(CentreCOM GS924M V2)
+- CTIシステム(IF6000)
 
 ### サーバ
-1. WindowsSever 2008、2008 R2、2012、2012 R2
-1. CentOS 5、6、7系
-1. AamazonLinux,AamaoznLinux2
+- WindowsSever 2008、2008 R2、2012、2012 R2
+- CentOS 5、6、7系
+- AamazonLinux,AamaoznLinux2
 
 ### データベース
-1. Microsoft SQL Server
-1. MySQL
-1. Oracle
+- Microsoft SQL Server
+- MySQL
+- Oracle
 
 ### Webサーバ
-1. Apache
-1. IIS
-1. Nginx
+- Apache
+- IIS
+- Nginx
 
 ### メール
-1. Postfix
+- Postfix
 
 ### ストレージ
-1. EMC isilon
+- EMC isilon
 
 ### ハイパーバイザー
-1. VMware
-1. KVM
+- VMware
+- KVM
 
 ### クラウド
-1. AWS
-1. Nifty Cloud
-1. Cloud Stack
-1. Microsoft Azure
+- AWS
+- Nifty Cloud
+- Cloud Stack
+- Microsoft Azure
 
 ### 監視ツール
-1. CloudWatch
-1. DataDog
-1. Nagios
-1. Zabbix
+- CloudWatch
+- DataDog
+- Nagios
+- Zabbix
 
 ### スクリプト
-1. Bash
-1. Python
+- Bash
+- Python
 
 ## 資格について
 - 2018/08 取得後有効期限により失効 Cisco Certified Network Associate (640-801J)
